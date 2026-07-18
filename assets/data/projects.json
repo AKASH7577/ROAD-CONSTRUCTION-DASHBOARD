@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Mumbai Express Highway",
+    "district": "Mumbai",
+    "authority": "NHAI",
+    "contractor": "ABC Infra",
+    "budget": 350,
+    "length": 120,
+    "progress": 85,
+    "status": "Under Progress",
+    "startDate": "2026-01-10",
+    "endDate": "2026-12-30",
+    "materials": [
+      "Cement",
+      "Steel",
+      "Bitumen"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pune Ring Road",
+    "district": "Pune",
+    "authority": "PWD",
+    "contractor": "XYZ Construction",
+    "budget": 500,
+    "length": 210,
+    "progress": 60,
+    "status": "Under Progress",
+    "startDate": "2026-02-01",
+    "endDate": "2027-04-01",
+    "materials": [
+      "Concrete",
+      "Steel",
+      "Sand"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Nagpur Smart Road",
+    "district": "Nagpur",
+    "authority": "PMC",
+    "contractor": "Build India",
+    "budget": 180,
+    "length": 75,
+    "progress": 100,
+    "status": "Completed",
+    "startDate": "2025-05-10",
+    "endDate": "2026-01-30",
+    "materials": [
+      "Bitumen",
+      "Concrete",
+      "Steel"
+    ]
+  }
+]
